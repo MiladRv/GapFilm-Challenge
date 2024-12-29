@@ -3,21 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommentManagement.Api", "UserManagement\CommentManagement.Api.csproj", "{7DA8406F-C2D4-4E6F-8763-39898C8618D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommentManagement.Api", "CommentManagement.Api\CommentManagement.Api.csproj", "{7DA8406F-C2D4-4E6F-8763-39898C8618D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommentManagement.Entity", "UserManagement.Entities\CommentManagement.Entity.csproj", "{7D593166-09BF-4312-A14C-5796150618F7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommentManagement.Entity", "CommentManagement.Entities\CommentManagement.Entity.csproj", "{7D593166-09BF-4312-A14C-5796150618F7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entities", "Entities", "{73938B1D-A352-4DB2-AA32-5B443AB52910}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommentManagement.Entity.Test", "UserManagement.Entity.Test\CommentManagement.Entity.Test.csproj", "{78016EDF-ABCB-4519-80FB-0AEEDEE3085E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommentManagement.Entity.Test", "CommentManagement.Entity.Test\CommentManagement.Entity.Test.csproj", "{78016EDF-ABCB-4519-80FB-0AEEDEE3085E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommentManagement.Application", "UserManagement.Application\CommentManagement.Application.csproj", "{C4197529-7E79-4B03-ACBF-437138032D2C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommentManagement.Application", "CommentManagement.Application\CommentManagement.Application.csproj", "{C4197529-7E79-4B03-ACBF-437138032D2C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Applications", "Applications", "{39928CFC-6165-400C-B846-AD5E6ED08994}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructures", "Infrastructures", "{74145718-C7EE-439E-9263-9599F4B74BCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommentManagement.Infrastructure.Repository", "UserManagement.Infrastructure.Repository\CommentManagement.Infrastructure.Repository.csproj", "{AA825ED8-233E-4222-A77B-D65B543ED41B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommentManagement.Infrastructure.Repository", "CommentManagement.Infrastructure.Repository\CommentManagement.Infrastructure.Repository.csproj", "{AA825ED8-233E-4222-A77B-D65B543ED41B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentations", "Presentations", "{ABD6F92F-0102-4C48-802E-FDCA00CEDCB7}"
 EndProject

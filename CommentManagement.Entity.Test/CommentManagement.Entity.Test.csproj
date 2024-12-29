@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\UserManagement.Entities\CommentManagement.Entity.csproj" />
+    <ProjectReference Include="..\CommentManagement.Entities\CommentManagement.Entity.csproj" />
   </ItemGroup>
 
   <ItemGroup>

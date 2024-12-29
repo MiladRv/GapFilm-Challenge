@@ -18,8 +18,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\UserManagement.Application\CommentManagement.Application.csproj" />
-    <ProjectReference Include="..\UserManagement.Entity.Test\CommentManagement.Entity.Test.csproj" />
+    <ProjectReference Include="..\CommentManagement.Application\CommentManagement.Application.csproj" />
+    <ProjectReference Include="..\CommentManagement.Entity.Test\CommentManagement.Entity.Test.csproj" />
   </ItemGroup>
 
   <ItemGroup>
